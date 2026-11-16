@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "First release: quotations, variations (V1, V2\u2026), PDF/Excel/scope exports, shared project folder.",
+  "pub_date": "2026-11-16T06:10:13Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiN3pUakVha0UrL3JmR29aVXdrbUpadnlKaTI1d0Y1UXlFTi9HNEZYYlN1VDk4MnI5SEtmRTduZ2UwVTVqL2dDTEw2bnBKaktLTmVDTTFLeUNkdjJFU0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA5NDAzCWZpbGU6UkFDIFByb18wLjEuMF94NjQtc2V0dXAuZXhlCng5a2kwT1NtNWdTUjZheXdXTkw1T2VBZGFYQlVTK1QvYko4OEJiVW9NbGZSYlprU0QxUkExMFBERGpjVkx1S3JVRlpKL0diMlhCdC90emFjRG9qNEJnPT0K",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.0_x64-setup.exe"
+    }
+  }
+}
