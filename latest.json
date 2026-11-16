@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Import projects and sections from Excel.",
-  "pub_date": "2026-11-16T06:27:20Z",
+  "version": "0.1.2",
+  "notes": "Updates are now required. RAC Pro locks if it cannot check for updates for 15 days.",
+  "pub_date": "2026-11-16T06:37:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNzJXNVFSVWZjTmQ1dEhHMGVkWTJGcGx6M3hIYW02NE5yWVkyV2lwYWVHWkZDS2hNRmwwcWNIM2wwNHBaSjE5Q3RTcXVhZnVJRjJSZUk1OVF4WncyY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODEwNDQwCWZpbGU6UkFDIFByb18wLjEuMV94NjQtc2V0dXAuZXhlCmtPc3RZNU05SHBMNzY0ZUpPQTZuaFNnQ0U2Nis3UzJQTHJ6TUdhN3RMdGlDQllaMHJ5dzZtL0hXSDd3V1F1Ni9YSjA3NDNZbzc5bkNud1RjZzRHS0FBPT0K",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNzBoaDhMcGRNZFJJOUFnMmN3WjVneHNwTkZ1Y0R6M0MvdGNLSExORXE2M0ZDMXhsczZWNG1zSHJEci9RdUd3empTbDVxaUFtUzlTYmpmNXRwaXZNSGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODExMDM0CWZpbGU6UkFDIFByb18wLjEuMl94NjQtc2V0dXAuZXhlCjY2eCtReWF6L2dFcW9GZzNJT3lxZXNXUGRoaUpxZzc4SXdzOG03ajZld3dOallaVHZtalRlNHV5cGUzRlIyajRXTEhiVEp4c3M3OWlrbnozVkJpNUJ3PT0K",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.2_x64-setup.exe"
     }
   }
 }
