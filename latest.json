@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Updates are now required. RAC Pro locks if it cannot check for updates for 15 days.",
-  "pub_date": "2026-11-16T06:37:15Z",
+  "version": "0.1.3",
+  "notes": "Select rows to make sub-sections or groups, undo/redo, right-click menu, Menu dropdown, delete variations, better Excel import.",
+  "pub_date": "2026-11-16T06:46:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNzBoaDhMcGRNZFJJOUFnMmN3WjVneHNwTkZ1Y0R6M0MvdGNLSExORXE2M0ZDMXhsczZWNG1zSHJEci9RdUd3empTbDVxaUFtUzlTYmpmNXRwaXZNSGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODExMDM0CWZpbGU6UkFDIFByb18wLjEuMl94NjQtc2V0dXAuZXhlCjY2eCtReWF6L2dFcW9GZzNJT3lxZXNXUGRoaUpxZzc4SXdzOG03ajZld3dOallaVHZtalRlNHV5cGUzRlIyajRXTEhiVEp4c3M3OWlrbnozVkJpNUJ3PT0K",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNzJYOUJJWWtZb284ckFyNUtzSVBCWFVHQlZnTDdzL1N3OVVXTXlZZklLd25xWkd4V0NDSmltMFVidk95NVZSVW5tMWxnekNzZlpWR3VIUkI1L2tvMkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODExNjE3CWZpbGU6UkFDIFByb18wLjEuM194NjQtc2V0dXAuZXhlCnJ4aDluRVlEem5vWmdGc3BmL3N4VTBlWEQ3VjlFRmF0QzNxYWZNNDJEU1AxR3dDVnRzUER4UDMxeDVSSm4vS1l3d0Y5OGJwRW9GZnZCSzB5TzNrWkFnPT0K",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.3_x64-setup.exe"
     }
   }
 }
