@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Right-click menu with colours, multi-row colouring, group lines in separate boxes, one PC edits a project at a time, rename, Recycle Bin.",
-  "pub_date": "2026-11-16T07:52:33Z",
+  "version": "0.1.5",
+  "notes": "Clients home, faster loading, progress (% complete), actual qty with extra %, units list, text sizes, find & replace.",
+  "pub_date": "2026-11-18T11:19:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNyt4VFh6cDZWWUVsQUp6TDVaNHVKMTdFKzFBV054LzdmTzJuMThyaWVxbUtoenlsdWtWK2VnZUVZb2ZzbHk1eFRtMHNtTy9hTDhvNkNBMFpPdDNnUkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODE1NTUzCWZpbGU6UkFDIFByb18wLjEuNF94NjQtc2V0dXAuZXhlCm4wS3B2RXNFdCtJWmlrNXI5ckxONG8rZ1lQenBKNVp3eDk2WE42eGpZRU9iWUsxbjVrMlBrVzBTZW8zeGppYTFDTmFyaDd0aEUxanNrdnhGK3FocUFnPT0K",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTJOOWIrbkNiNzRja2dyTUdWU1ZVOTdKcTZmVGsrSzlpVHA5T2tHL0FiT2ZYSjVPU3BOZjVhc3g1TTVCUjZQa2RzZlREWXRJQzhEUFVMNWJuWHBjdVV0TGRLSHQ3bXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwNzgzCWZpbGU6UkFDIFByb18wLjEuNV94NjQtc2V0dXAuZXhlClFSL0xwaHpFaEd6aUpjZkdRQVJ2NVRwMHpyZ1Rtd3BLTmhoeFFkOUxmM3NhN3YwVWw5WnlvclRiRyszZ1hwa1BLdWFQMEVWUUpFUWtWZmVXUWNDRkRnPT0K",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/rac-pro-updates/main/installers/RAC-Pro_0.1.5_x64-setup.exe"
     }
   }
 }
